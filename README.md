@@ -73,7 +73,7 @@ Hurray! the project is ready to run.
 
 ### Notification you'll recieve on slack
 
-Request with Spam Payload detected!
- **Type**: SpamNotification
- **Email**: <email>
- **Description**: <description>
+Request with Spam Payload detected! \
+ **Type**: SpamNotification \
+ **Email**: (email) \
+ **Description**: (description)
