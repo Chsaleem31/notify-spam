@@ -31,3 +31,5 @@
 
 en:
   hello: "Hello world"
+  spam_report:
+    notify: "Request with Spam Payload detected! \n *Type*: %{type} \n *Email*: %{email} \n *Description*: %{description}"
